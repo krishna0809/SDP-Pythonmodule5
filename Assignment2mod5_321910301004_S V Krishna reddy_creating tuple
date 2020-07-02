@@ -1,0 +1,4 @@
+x = ()
+print(x)s
+tuplex = tuple()
+print(tuplex)
